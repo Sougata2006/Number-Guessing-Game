@@ -44,7 +44,8 @@ you guessed the number in 7 guesses
 
 ---------------------------------------------------------------------------------------
 Technologies Used 🛠️
-C Programming Language &
+C Programming Language 
+&
 GCC Compiler
 ---------------------------------------------------------------------------------------
 
