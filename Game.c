@@ -3,7 +3,6 @@
 #include <time.h>
 
 int main (){
-
     srand(time(0));
 
     int randomnum = (rand()% 100) + 1;
