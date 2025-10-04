@@ -1,5 +1,5 @@
 Number Guessing Game in C 🎮
-Welcome to the Number Guessing Game! This is a fun console-based game written in C where the user tries to guess a randomly generated number.
+Welcome to the Number Guessing Game! This is a fun console-based game written in C where the user tries to guess a randomly generated number
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 
