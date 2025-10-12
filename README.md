@@ -64,10 +64,10 @@ You guessed the number in 7 guesses!
 1. Clone or download this repository.  
 2. Open the folder in your terminal or IDE.  
 3. Compile the program using:  
-   ```bash
+```bash
    gcc number_guessing_game.c -o game
 ```
 4. Run the executable:
-   ```bash
+```bash
    ./game
 ```
